@@ -19,7 +19,6 @@
 
 ```{bash}
 git clone https://github.com/florenskaial118/docker-compose-assignment.git
-git push -u origin main
 cd docker-compose-assignment
 ```
 
